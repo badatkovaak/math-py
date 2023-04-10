@@ -1,4 +1,4 @@
-from numberSequences import nthFibonacciNumber
+from misc.numberSequences import nthFibonacciNumber
 
 for i in range(1, 200):
     print(nthFibonacciNumber(i))
