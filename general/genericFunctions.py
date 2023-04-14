@@ -10,7 +10,7 @@ def factorial(n):
 
 def exp(x):
     result = 1
-    for i in range(1, 50):
+    for i in range(1, 60):
         result += (x**i)/factorial(i)
     return result
 
@@ -59,11 +59,11 @@ def integrate1(f, a, b, n=-1):
 #     while abs(x) > 1
 
 
-def f1(x):
-    result = 0
-    for i in range(1, 20):
-        result += ((-1)**(i-1)/i)*(x**i)
-    return result
+# def f1(x):
+#     result = 0
+#     for i in range(1, 20):
+#         result += ((-1)**(i-1)/i)*(x**i)
+#     return result
 
 
 def AGM(x, y):
