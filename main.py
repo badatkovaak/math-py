@@ -1,8 +1,8 @@
-import misc.numberSequences as ns
-import misc.trigFunctions as tf
-import primes.prime as pp
-import general.genericFunctions as gf
-import linearAlgebra.basics as lab
+import src.misc.numberSequences as ns
+import src.misc.trigFunctions as tf
+import src.primes.prime as pp
+import src.general.genericFunctions as gf
+import src.linearAlgebra.basics as lab
 
 
 def main():

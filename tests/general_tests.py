@@ -4,7 +4,7 @@ import math
 
 sys.path.insert(0, '/home/badatkovaak/pr/code/py')
 #fmt: off
-import math_py.general.genericFunctions as gf
+import math_py.src.general.genericFunctions as gf
 #fmt: on
 
 

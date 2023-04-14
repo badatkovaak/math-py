@@ -4,7 +4,7 @@ import math
 
 sys.path.insert(0, '/home/badatkovaak/pr/code/py')
 #fmt: off
-import math_py.misc.trigFunctions as tf
+import math_py.src.misc.trigFunctions as tf
 #fmt: on
 
 
